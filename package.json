@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "jsuleyka",
+	"description": "Boilerplate for the freeCodeCamp package-json",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
